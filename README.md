@@ -2,8 +2,8 @@
 
 This repository contains additional material for the publication
 
-*Michael Aloys Hedderich, Andrew Yates, Dietrich Klakow and Gerard de Melo:*
-**Using Multi-Sense Vector Embeddings for Reverse Dictionaries.**
+*Michael Aloys Hedderich, Andrew Yates, Dietrich Klakow and Gerard de Melo:*  
+**Using Multi-Sense Vector Embeddings for Reverse Dictionaries.**  
 To appear in the Proceedings of the 13th International Conference on Computational Semantics (IWCS 2019)
 
 ## Reverse Dictionary Dataset
