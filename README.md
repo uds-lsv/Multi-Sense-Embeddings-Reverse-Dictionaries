@@ -58,10 +58,14 @@ if num-senses > 1:
 If you use any of these resources in your work, please cite us.
 
 ```
-@inproceedings{MultiSenseReverseDictionary:2019,
-  author = {Michael Aloys Hedderich and Andrew Yates and Dietrich Klakow and Gerard de Melo},
-  title = {Using Multi-Sense Vector Embeddings for Reverse Dictionaries},
-  year = 2019,
-  booktitle = {To appear in the Proceedings of the 13th International Conference on Computational Semantics (IWCS 2019)},
-}
+@inproceedings{Hedderich19MultiSense,
+  title = "Using Multi-Sense Vector Embeddings for Reverse Dictionaries",
+  author = "Hedderich, Michael A. and Yates, Andrew and Klakow, Dietrich and de Melo, Gerard",
+  booktitle = "Proceedings of the 13th International Conference on Computational Semantics - Long Papers",
+  year = "2019",
+  address = "Gothenburg, Sweden",
+  publisher = "Association for Computational Linguistics",
+  url = "https://www.aclweb.org/anthology/W19-0421",
+  pages = "247--258"
+} 
 ```
